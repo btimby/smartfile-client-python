@@ -1,4 +1,4 @@
-smartfile-client-python
+This project has moved.
 =======================
 
-This project has moved: https://github.com/smartfile/client-python
+https://github.com/smartfile/client-python
